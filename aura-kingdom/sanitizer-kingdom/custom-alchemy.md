@@ -74,6 +74,12 @@ Unlocks: [Special Potion - Movement Speed](#)
 42698|Whitebelly Crocodile| Port Morton |
 42699|Speckled Crocodile| Port Morton |
 
+### Cotton Wooly
+|  | Name | Location |
+| ---- | ----| ---- |
+42700|Bowhorn Goat| |
+42701|Shorthoof Goat| |
+
 ## Backpacks
 
 |      |     |     | Learning Cost |     | Crafting Cost |       |                  |     |     |       |                  |     |       |                    |     |       |                          |     |       |                  |     |                                              |     |     |     |     |     | Pre-requisite |     |
