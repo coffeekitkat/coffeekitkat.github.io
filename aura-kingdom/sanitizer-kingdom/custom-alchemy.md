@@ -63,6 +63,17 @@ Unlocks: [Special Potion - Movement Speed](#)
 | Sage Stone               | 1   |
 | Potion - Treasure Hunter | 2   |
 
+## Backpack Materials
+
+
+### Wonderful Cloth
+|  | Name | Location |
+| ---- | ----| ---- |
+42487|Sharphorn Snowdeer| Silent Ice Field
+42488|Greathoof Snowdeer| Silent Ice Field|
+42698|Whitebelly Crocodile| Port Morton |
+42699|Speckled Crocodile| Port Morton |
+
 ## Backpacks
 
 |      |     |     | Learning Cost |     | Crafting Cost |       |                  |     |     |       |                  |     |       |                    |     |       |                          |     |       |                  |     |                                              |     |     |     |     |     | Pre-requisite |     |
