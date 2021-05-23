@@ -80,6 +80,28 @@ Unlocks: [Special Potion - Movement Speed](#)
 42700|Bowhorn Goat| |
 42701|Shorthoof Goat| |
 
+
+## Pet Marks
+
+| Material                  | Qty |                  |
+| ------------------------- | --- | ---------------- |
+| Magical Phial             | 10   |                  |
+| Alchemical Powder    | 5   |
+| Mysterious Potion | 1   |
+| Dark Orb      | 25   |   |
+
+
+## Pets
+
+### Battle Companion : Wind Familiar Slyph
+
+| Material                  | Qty |                  |
+| ------------------------- | --- | ---------------- |
+| Magical Phial             | 5  |                  |
+| Alchemical Powder    | 5   |
+| Wind Mark | 100   |
+| Mysterious Potion      | 100 |   |
+
 ## Backpacks
 
 |      |     |     | Learning Cost |     | Crafting Cost |       |                  |     |     |       |                  |     |       |                    |     |       |                          |     |       |                  |     |                                              |     |     |     |     |     | Pre-requisite |     |
