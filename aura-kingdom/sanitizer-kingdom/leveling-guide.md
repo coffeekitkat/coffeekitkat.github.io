@@ -13,7 +13,7 @@ Aura set gives +20% EXP and when fortified upto +15 it gives a total of +35% EXP
 
 ### **Booster Set**
 
-Booster Set is a custom accessory that drops from Bunnyhop Boss and Sunbird King on Port Skandia. You can use any quality of Treasure Charms on the two mini boss on Port Skandia.
+Booster Set is a custom accessory that drops from Bunnyhop Boss and Sunbird King on Port Skandia. You can use any quality of Treasure Charms on the two mini boss on Port Skandia so that you can get more loots (only if you have problem getting the set).
 
 ![](./images/booster-gear-1.png)
 
